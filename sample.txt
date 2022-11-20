@@ -1,2 +1,2 @@
-Branch Name 'tester' 
-This is Git Branch tutorial for Practice
+This is Branch Tutorial
+for checking new branch namely 'tester'

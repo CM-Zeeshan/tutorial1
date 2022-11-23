@@ -1,1 +1,1 @@
-Another branch created namely "tester1"
+This is practice for merge.
